@@ -1,3 +1,3 @@
 worker: node index.js,
-             functions.js,
+        node functions.js,
 })
